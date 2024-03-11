@@ -1,2 +1,2 @@
 # Movie-Recommedation-System
-Recommeds movie based on previous movie data
+Recommends movie based on previous movie
